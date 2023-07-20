@@ -1,6 +1,6 @@
 body{
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background: linear-gradient(to right, #418f43, #ff9800);
     margin: auto;
     padding: 0;
 }
@@ -9,7 +9,7 @@ body{
     max-width: 600px;
     margin: 200px auto;
     padding: 40px;
-    background-color: #fff;
+    background: linear-gradient(to right, #41658f, #ff5e00);
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
